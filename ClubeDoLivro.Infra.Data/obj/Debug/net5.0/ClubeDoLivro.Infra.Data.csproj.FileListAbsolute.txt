@@ -1,0 +1,45 @@
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\obj\Debug\net5.0\ClubeDoLivro.Infra.Data.csproj.AssemblyReference.cache
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\obj\Debug\net5.0\ClubeDoLivro.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\obj\Debug\net5.0\ClubeDoLivro.Infra.Data.AssemblyInfoInputs.cache
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\obj\Debug\net5.0\ClubeDoLivro.Infra.Data.AssemblyInfo.cs
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\obj\Debug\net5.0\ClubeDoLivro.Infra.Data.csproj.CoreCompileInputs.cache
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\bin\Debug\net5.0\ClubeDoLivro.Infra.Data.deps.json
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\bin\Debug\net5.0\ClubeDoLivro.Infra.Data.dll
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\bin\Debug\net5.0\ClubeDoLivro.Infra.Data.pdb
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\bin\Debug\net5.0\ClubeDoLivro.Domain.dll
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\bin\Debug\net5.0\ClubeDoLivro.Domain.pdb
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\obj\Debug\net5.0\ClubeDoLivro.Infra.Data.csproj.CopyComplete
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\obj\Debug\net5.0\ClubeDoLivro.Infra.Data.dll
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\obj\Debug\net5.0\refint\ClubeDoLivro.Infra.Data.dll
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\obj\Debug\net5.0\ClubeDoLivro.Infra.Data.pdb
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\obj\Debug\net5.0\ref\ClubeDoLivro.Infra.Data.dll
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\bin\Debug\net5.0\ClubeDoLivro.Infra.Data.deps.json
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\bin\Debug\net5.0\ClubeDoLivro.Infra.Data.dll
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\bin\Debug\net5.0\ClubeDoLivro.Infra.Data.pdb
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\bin\Debug\net5.0\ClubeDoLivro.Domain.dll
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\bin\Debug\net5.0\ClubeDoLivro.Domain.pdb
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\obj\Debug\net5.0\ClubeDoLivro.Infra.Data.csproj.AssemblyReference.cache
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\obj\Debug\net5.0\ClubeDoLivro.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\obj\Debug\net5.0\ClubeDoLivro.Infra.Data.AssemblyInfoInputs.cache
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\obj\Debug\net5.0\ClubeDoLivro.Infra.Data.AssemblyInfo.cs
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\obj\Debug\net5.0\ClubeDoLivro.Infra.Data.csproj.CoreCompileInputs.cache
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\obj\Debug\net5.0\ClubeDoLivro.Infra.Data.csproj.CopyComplete
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\obj\Debug\net5.0\ClubeDoLivro.Infra.Data.dll
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\obj\Debug\net5.0\refint\ClubeDoLivro.Infra.Data.dll
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\obj\Debug\net5.0\ClubeDoLivro.Infra.Data.pdb
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\obj\Debug\net5.0\ref\ClubeDoLivro.Infra.Data.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\bin\Debug\net5.0\ClubeDoLivro.Infra.Data.deps.json
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\bin\Debug\net5.0\ClubeDoLivro.Infra.Data.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\bin\Debug\net5.0\ClubeDoLivro.Infra.Data.pdb
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\bin\Debug\net5.0\ClubeDoLivro.Domain.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\bin\Debug\net5.0\ClubeDoLivro.Domain.pdb
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\obj\Debug\net5.0\ClubeDoLivro.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\obj\Debug\net5.0\ClubeDoLivro.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\obj\Debug\net5.0\ClubeDoLivro.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\obj\Debug\net5.0\ClubeDoLivro.Infra.Data.AssemblyInfo.cs
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\obj\Debug\net5.0\ClubeDoLivro.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\obj\Debug\net5.0\ClubeDoLivro.Infra.Data.csproj.CopyComplete
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\obj\Debug\net5.0\ClubeDoLivro.Infra.Data.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\obj\Debug\net5.0\refint\ClubeDoLivro.Infra.Data.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\obj\Debug\net5.0\ClubeDoLivro.Infra.Data.pdb
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.Infra.Data\obj\Debug\net5.0\ref\ClubeDoLivro.Infra.Data.dll

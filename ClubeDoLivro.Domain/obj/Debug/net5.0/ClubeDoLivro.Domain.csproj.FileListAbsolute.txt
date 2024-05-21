@@ -1,0 +1,36 @@
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro\bin\Debug\net5.0\ClubeDoLivro.Domain.deps.json
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro\bin\Debug\net5.0\ClubeDoLivro.Domain.dll
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro\bin\Debug\net5.0\ClubeDoLivro.Domain.pdb
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro\obj\Debug\net5.0\ClubeDoLivro.Domain.csproj.AssemblyReference.cache
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro\obj\Debug\net5.0\ClubeDoLivro.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro\obj\Debug\net5.0\ClubeDoLivro.Domain.AssemblyInfoInputs.cache
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro\obj\Debug\net5.0\ClubeDoLivro.Domain.AssemblyInfo.cs
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro\obj\Debug\net5.0\ClubeDoLivro.Domain.csproj.CoreCompileInputs.cache
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro\obj\Debug\net5.0\ClubeDoLivro.Domain.dll
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro\obj\Debug\net5.0\refint\ClubeDoLivro.Domain.dll
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro\obj\Debug\net5.0\ClubeDoLivro.Domain.pdb
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro\obj\Debug\net5.0\ref\ClubeDoLivro.Domain.dll
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro\bin\Debug\net5.0\ClubeDoLivro.Domain.deps.json
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro\bin\Debug\net5.0\ClubeDoLivro.Domain.dll
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro\bin\Debug\net5.0\ClubeDoLivro.Domain.pdb
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro\obj\Debug\net5.0\ClubeDoLivro.Domain.csproj.AssemblyReference.cache
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro\obj\Debug\net5.0\ClubeDoLivro.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro\obj\Debug\net5.0\ClubeDoLivro.Domain.AssemblyInfoInputs.cache
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro\obj\Debug\net5.0\ClubeDoLivro.Domain.AssemblyInfo.cs
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro\obj\Debug\net5.0\ClubeDoLivro.Domain.csproj.CoreCompileInputs.cache
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro\obj\Debug\net5.0\ClubeDoLivro.Domain.dll
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro\obj\Debug\net5.0\refint\ClubeDoLivro.Domain.dll
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro\obj\Debug\net5.0\ClubeDoLivro.Domain.pdb
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro\obj\Debug\net5.0\ref\ClubeDoLivro.Domain.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.Domain\bin\Debug\net5.0\ClubeDoLivro.Domain.deps.json
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.Domain\bin\Debug\net5.0\ClubeDoLivro.Domain.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.Domain\bin\Debug\net5.0\ClubeDoLivro.Domain.pdb
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.Domain\obj\Debug\net5.0\ClubeDoLivro.Domain.csproj.AssemblyReference.cache
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.Domain\obj\Debug\net5.0\ClubeDoLivro.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.Domain\obj\Debug\net5.0\ClubeDoLivro.Domain.AssemblyInfoInputs.cache
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.Domain\obj\Debug\net5.0\ClubeDoLivro.Domain.AssemblyInfo.cs
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.Domain\obj\Debug\net5.0\ClubeDoLivro.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.Domain\obj\Debug\net5.0\ClubeDoLivro.Domain.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.Domain\obj\Debug\net5.0\refint\ClubeDoLivro.Domain.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.Domain\obj\Debug\net5.0\ClubeDoLivro.Domain.pdb
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.Domain\obj\Debug\net5.0\ref\ClubeDoLivro.Domain.dll

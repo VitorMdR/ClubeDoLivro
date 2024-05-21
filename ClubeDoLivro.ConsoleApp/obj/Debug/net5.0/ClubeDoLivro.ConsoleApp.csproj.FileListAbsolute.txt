@@ -1,0 +1,81 @@
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\obj\Debug\net5.0\ClubeDoLivro.ConsoleApp.csproj.AssemblyReference.cache
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\obj\Debug\net5.0\ClubeDoLivro.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\obj\Debug\net5.0\ClubeDoLivro.ConsoleApp.AssemblyInfoInputs.cache
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\obj\Debug\net5.0\ClubeDoLivro.ConsoleApp.AssemblyInfo.cs
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\obj\Debug\net5.0\ClubeDoLivro.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\ClubeDoLivro.ConsoleApp.exe
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\ClubeDoLivro.ConsoleApp.deps.json
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\ClubeDoLivro.ConsoleApp.runtimeconfig.json
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\ClubeDoLivro.ConsoleApp.runtimeconfig.dev.json
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\ClubeDoLivro.ConsoleApp.dll
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\ClubeDoLivro.ConsoleApp.pdb
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\ClubeDoLivro.Domain.dll
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\ClubeDoLivro.Infra.Data.dll
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\ClubeDoLivro.Infra.Data.pdb
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\ClubeDoLivro.Domain.pdb
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\obj\Debug\net5.0\ClubeDoLivro.ConsoleApp.csproj.CopyComplete
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\obj\Debug\net5.0\ClubeDoLivro.ConsoleApp.dll
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\obj\Debug\net5.0\refint\ClubeDoLivro.ConsoleApp.dll
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\obj\Debug\net5.0\ClubeDoLivro.ConsoleApp.pdb
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\obj\Debug\net5.0\ClubeDoLivro.ConsoleApp.genruntimeconfig.cache
+D:\Aula Repository\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\obj\Debug\net5.0\ref\ClubeDoLivro.ConsoleApp.dll
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\obj\Debug\net5.0\ClubeDoLivro.ConsoleApp.csproj.AssemblyReference.cache
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\obj\Debug\net5.0\ClubeDoLivro.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\obj\Debug\net5.0\ClubeDoLivro.ConsoleApp.AssemblyInfoInputs.cache
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\obj\Debug\net5.0\ClubeDoLivro.ConsoleApp.AssemblyInfo.cs
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\obj\Debug\net5.0\ClubeDoLivro.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\obj\Debug\net5.0\ClubeDoLivro.ConsoleApp.dll
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\obj\Debug\net5.0\refint\ClubeDoLivro.ConsoleApp.dll
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\obj\Debug\net5.0\ClubeDoLivro.ConsoleApp.pdb
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\ClubeDoLivro.ConsoleApp.exe
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\ClubeDoLivro.ConsoleApp.deps.json
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\ClubeDoLivro.ConsoleApp.runtimeconfig.json
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\ClubeDoLivro.ConsoleApp.runtimeconfig.dev.json
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\ClubeDoLivro.ConsoleApp.dll
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\ClubeDoLivro.ConsoleApp.pdb
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\ClubeDoLivro.Domain.dll
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\ClubeDoLivro.Infra.Data.dll
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\ClubeDoLivro.Infra.Data.pdb
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\ClubeDoLivro.Domain.pdb
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\obj\Debug\net5.0\ClubeDoLivro.ConsoleApp.csproj.CopyComplete
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\obj\Debug\net5.0\ClubeDoLivro.ConsoleApp.genruntimeconfig.cache
+D:\Aula Repository\Exercicio\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\obj\Debug\net5.0\ref\ClubeDoLivro.ConsoleApp.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\ClubeDoLivro.ConsoleApp.exe
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\ClubeDoLivro.ConsoleApp.deps.json
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\ClubeDoLivro.ConsoleApp.runtimeconfig.json
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\ClubeDoLivro.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\ClubeDoLivro.ConsoleApp.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\ClubeDoLivro.ConsoleApp.pdb
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\ClubeDoLivro.Domain.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\ClubeDoLivro.Infra.Data.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\ClubeDoLivro.Infra.Data.pdb
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\bin\Debug\net5.0\ClubeDoLivro.Domain.pdb
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\obj\Debug\net5.0\ClubeDoLivro.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\obj\Debug\net5.0\ClubeDoLivro.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\obj\Debug\net5.0\ClubeDoLivro.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\obj\Debug\net5.0\ClubeDoLivro.ConsoleApp.AssemblyInfo.cs
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\obj\Debug\net5.0\ClubeDoLivro.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\obj\Debug\net5.0\ClubeDoLivro.ConsoleApp.csproj.CopyComplete
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\obj\Debug\net5.0\ClubeDoLivro.ConsoleApp.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\obj\Debug\net5.0\refint\ClubeDoLivro.ConsoleApp.dll
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\obj\Debug\net5.0\ClubeDoLivro.ConsoleApp.pdb
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\obj\Debug\net5.0\ClubeDoLivro.ConsoleApp.genruntimeconfig.cache
+C:\Users\Vítor\Google Drive\Vitor\TropTech\Módulo 02\25-08\ClubeDoLivroSolution\ClubeDoLivro.ConsoleApp\obj\Debug\net5.0\ref\ClubeDoLivro.ConsoleApp.dll
